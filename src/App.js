@@ -33,7 +33,7 @@ export const App = () => {
           shadow-camera-bottom={-10}
         />
         <pointLight position={[-10, 0, -20]} intensity={0.5} />
-        <pointLight position={[0, -10, 0]} intensity={1.5} />
+        <pointLight position={[0, -10, 0]} intensity={1.4} />
 
         <group>
           <mesh
